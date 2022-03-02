@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Description
 ## Basic Calculator
@@ -93,12 +94,26 @@ So in this project the input has to be in a form "Number1 (Operator) Number2". F
 ![8b72d467-34cd-4177-916c-7aebf8e420f1](https://user-images.githubusercontent.com/98874290/153697544-c9a52e1c-b3f4-435a-869b-5ce68f16b6d3.jpg)
 ![b16e111f-0cad-4f45-843b-cdce73a061db](https://user-images.githubusercontent.com/98874290/153697547-9ebe61ce-d0ee-4f72-963f-87d407770056.jpg)
 ![a61e2b2c-e913-451e-b0d7-703ef682054c](https://user-images.githubusercontent.com/98874290/153697549-db765f2d-ee9d-458c-b252-4118d0d6c107.jpg)
+=======
+# M1_ProjectGoal_Utility
+# PROJECT
+# Digital stopwatch project 
+
+Introduction:
+keyboardhit() function  :This function simply stands for keyboard hit. After pressing a key it generates a signal and returns a non zero integer. In this, there are 4 loops, 1st loop for hours, 2nd for minutes, 3rd for seconds and 4th loop for maintaining the speed of seconds(3 loop). After running this program it wait for a keyboard start(s) key to be pressed and when key is pressed, it generates a signal. For storing a keyboard key there is a variable(c), if c is equal to p key then it calls the wait function. The thread is running in the background and we are waiting for the start key to be pressed. After pressing s key, the thread again jumps to thread_join function, if r key is pressed, then it jumps into reset label and all the loops are again starts with zeros, if s key is pressed it jumps into start label and if e key is pressed it calls the exit() function and program gets terminated.
+
+
+To execute the program we use following command :
+  
+![image](https://user-images.githubusercontent.com/98941312/156295551-8199178f-73cf-4a52-828e-b9a3a0188899.png)
+>>>>>>> 8fe285199fc89a2607b1f8c3c3d9743eff0016b0
 
 
 
 
 
 
+<<<<<<< HEAD
 ## Features
 * This calculator can be used to do simple math calculation in very fast and efficient way.
 * User Friendly interface.
@@ -125,3 +140,7 @@ So in this project the input has to be in a form "Number1 (Operator) Number2". F
 
 # References
 https://github.com/stepin654321/MiniProject_Template.git
+=======
+
+	
+>>>>>>> 8fe285199fc89a2607b1f8c3c3d9743eff0016b0
