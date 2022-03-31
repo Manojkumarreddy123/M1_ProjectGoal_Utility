@@ -3,7 +3,7 @@
 #define calculator_h_
 /**
  * @file calculator.h
- * @author Akshay Eknathe (akshayeknathe8788@gmail.com)
+ * @author Manoj (mkreddy.gali@gmail.com)
  * @brief Header files
  * @version 0.1
  * @date 2022-02-11
